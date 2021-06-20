@@ -1,11 +1,10 @@
-package cn.com.zt.activity
+package cn.com.zt.activity.camerx
 
 import android.content.res.Configuration
-import android.os.Bundle
 import androidx.camera.core.*
 import androidx.camera.lifecycle.ProcessCameraProvider
-import androidx.camera.view.LifecycleCameraController
 import androidx.core.content.ContextCompat
+import cn.com.zt.activity.BaseActivity
 import cn.com.zt.util.CameraUtil
 import com.google.common.util.concurrent.ListenableFuture
 import java.util.concurrent.ExecutorService

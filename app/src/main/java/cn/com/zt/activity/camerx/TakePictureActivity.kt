@@ -1,4 +1,4 @@
-package cn.com.zt.activity
+package cn.com.zt.activity.camerx
 
 import android.net.Uri
 import android.os.Bundle
@@ -15,7 +15,7 @@ import java.io.File
  * date:2021/5/26
  * author:zhangteng
  * description:
- * 自己重写很多东西很麻烦 建议使用cameraController
+ * 自定义的Camerx需要重写很多  一般需求建议使用cameraController
  */
 class TakePictureActivity : BasePreviewActivity() {
     private lateinit var binding: ActivityPictureBinding

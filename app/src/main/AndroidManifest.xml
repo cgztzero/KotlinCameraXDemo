@@ -26,7 +26,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activity.TakePictureActivity"
+            android:name=".activity.camerx.TakePictureActivity"
             android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize"
             android:screenOrientation="fullUser" />
         <activity

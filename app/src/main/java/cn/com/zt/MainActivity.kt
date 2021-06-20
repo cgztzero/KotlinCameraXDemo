@@ -7,7 +7,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import cn.com.zt.activity.controller.CameraControllerActivity
 import cn.com.zt.activity.scan.QRCodeActivity
-import cn.com.zt.activity.TakePictureActivity
+import cn.com.zt.activity.camerx.TakePictureActivity
 import cn.com.zt.databinding.ActivityMainBinding
 import com.permissionx.guolindev.PermissionX
 
