@@ -1,0 +1,3 @@
+# KotlinCameraXDemo
+1.使用Kotlin+Jetpack的CameraX库+google的MLKit库制作的相机Demo。可以实现拍照，录像和扫描二维码的功能。
+2.如果想快速开发建议查看CameraController，因为Google已经封装好了很多实例
